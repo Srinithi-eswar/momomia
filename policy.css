@@ -3,7 +3,6 @@ body {
     color: rgb(255, 244, 222);
   }
   
-  /* *********************************** Navbar Section ********************************************/
   .navbar-expand-lg {
     background-color: #000000;
     z-index: 2;
@@ -18,7 +17,7 @@ body {
     font-weight: 500;
     font-size: 3.5rem;
   }
-  .nav-item /* for each navbar item */ {
+  .nav-item  {
     font-size: 1.1rem;
     font-weight: 500;
     font-family: "Ubuntu", sans-serif;
@@ -41,7 +40,7 @@ body {
     word-wrap: normal;
   }
   li {
-    /* padding: 10px; */
+    
     font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
     font-size: 15px;
   }
